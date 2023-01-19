@@ -2,7 +2,7 @@
   "name": "blocus-helpers",
   "version": "1.0.5",
   "description": "a set of helpers to use with nodejs",
-  "main": "dist/index.ts",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "format:check": "prettier --check \"src/**/*.{js,jsx,ts,tsx,json,md}\"",
