@@ -1,6 +1,6 @@
 {
   "name": "blocus-helpers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a set of helpers to use with nodejs",
   "main": "dist/index.ts",
   "scripts": {
