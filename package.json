@@ -1,7 +1,7 @@
 {
-  "name": "@meftah/helpers",
+  "name": "blocus-helpers",
   "version": "1.0.0",
-  "description": "a set of helpers to use with nodejs ",
+  "description": "a set of helpers to use with nodejs",
   "main": "src/index.ts",
   "scripts": {
     "build": "tsc",
