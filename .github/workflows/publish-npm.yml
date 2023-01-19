@@ -116,6 +116,7 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
+      - uses: fregante/setup-git-user@v1
       - name: Restore dependencies
         id: cache-dependencies-restore
         uses: actions/cache/restore@v3
